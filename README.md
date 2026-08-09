@@ -68,19 +68,8 @@ A highly motivated Information Technology student from Prince of Songkla Univers
   - [Repo](https://github.com/prachaya971-jpg/Spare-parts-management-back-when-I-wasn-t-yet-proficient-in-SQL-)
 
 
----
-
-###  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prachaya971-jpg&show_icons=true&theme=tokyonight" alt="Prachaya's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachaya971-jpg&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ###  Connect with Me
--  **Email:** [prachaya971@gmail.com](mailto:prachaya971@gmail.com)[cite: 1]
--  **Phone:** 080-518-4971[cite: 1]
--  **GitHub:** [prachaya971-jpg](https://github.com/prachaya971-jpg)[cite: 1]
+-  **Email:** [prachaya971@gmail.com](mailto:prachaya971@gmail.com)
+-  **Phone:** 080-518-4971
+-  **GitHub:** [prachaya971-jpg](https://github.com/prachaya971-jpg)
 -  **Resume File:** [Download Resume PDF](./Resume.pdf)
