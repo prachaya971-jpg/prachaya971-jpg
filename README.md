@@ -4,19 +4,19 @@ A highly motivated Information Technology student from Prince of Songkla Univers
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 **Education:** 
+###  About Me
+-  **Education:** 
   - Bachelor of Science in Information Technology (B.Sc. in IT), **Prince of Songkla University** (GPA: 3.13)
-  - High Vocational Certificate in IT, **Hatyai Amnuaywit Technological College** (GPA: 3.80)[cite: 1]
-  - Vocational Certificate in Business Computer, **Hatyai Amnuaywit Technological College** (GPA: 3.58)[cite: 1]
-- 💼 **Experience:**
-  - **IT Support & Technician Intern** @ Epson Service Center Hat Yai - SVOA Hat Yai Branch[cite: 1]
-  - **Data Analyst Intern** @ Office of Digital Innovation and Intelligent Systems, Prince of Songkla University[cite: 1]
-- 📍 **Location:** Songkhla, Thailand[cite: 1]
+  - High Vocational Certificate in IT, **Hatyai Amnuaywit Technological College** (GPA: 3.80)
+  - Vocational Certificate in Business Computer, **Hatyai Amnuaywit Technological College** (GPA: 3.58)
+-  **Experience:**
+  - **IT Support & Technician Intern** @ Epson Service Center Hat Yai - SVOA Hat Yai Branch
+  - **Data Analyst Intern** @ Office of Digital Innovation and Intelligent Systems, Prince of Songkla University
+-  **Location:** Songkhla, Thailand
 
 ---
 
-### 🛠️ Languages & Tools
+###  Languages & Tools
 
 <p align="left">
   <!-- Languages -->
@@ -43,24 +43,34 @@ A highly motivated Information Technology student from Prince of Songkla Univers
 
 ---
 
-### 🚀 Projects
+###  Projects
 
-* 🎲 **Board Game Cafe Sales & Management Web Application**[cite: 1]
-  - All-in-one management system for sales tracking, food ordering, and inventory management.[cite: 1]
-  - **Tech Stack:** Flutter, Dart, Node.js, MariaDB[cite: 1]
-  - 🔗 [Client Repo](https://github.com/prachaya971-jpg/Library-House-Board-Game-Cafe001) | [Server Repo](https://github.com/prachaya971-jpg/cafe_boardgame_server)[cite: 1]
+*  **Board Game Cafe Sales & Management Web Application**
+  - All-in-one management system for sales tracking, food ordering, and inventory management.
+  - **Tech Stack:** Flutter, Dart, Node.js, MariaDB
+  -  [Client Repo](https://github.com/prachaya971-jpg/Library-House-Board-Game-Cafe001) | [Server Repo](https://github.com/prachaya971-jpg/cafe_boardgame_server)
 
-* 🏠 **Dormitory Billing & Invoicing Web Application**[cite: 1]
-  - Web-based invoicing application to automate monthly rent and utility billing.[cite: 1]
-  - **Tech Stack:** PHP, SQL, HTML/CSS, MySQL[cite: 1]
+*  **search-barbershop**
+  -This is a project created for learning and studying the Drat language.
+   **Tech Stack:** Flutter, Dart, friebase
+    [Repo](https://github.com/prachaya971-jpg/search-barbershop)
 
-* 📦 **Spare Parts Inventory Management Web Application**[cite: 1]
-  - Inventory tracking system to monitor and manage spare parts stock levels efficiently.[cite: 1]
-  - **Tech Stack:** PHP, SQL, HTML/CSS, MySQL[cite: 1]
+*  **Dormitory Billing & Invoicing Web Application**
+  - Web-based invoicing application to automate monthly rent and utility billing.
+  - **Tech Stack:** PHP, SQL, HTML/CSS, MySQL
+  - It was a project from when I first started programming.
+  - [Repo](https://github.com/prachaya971-jpg/Dormitory-Management-System-from-when-I-was-learning-to-write-SQL-)
+
+*  **Spare Parts Inventory Management Web Application**
+  - Inventory tracking system to monitor and manage spare parts stock levels efficiently.
+  - **Tech Stack:** PHP, SQL, HTML/CSS, MySQL
+  -  - It was a project from when I first started programming.
+  - [Repo](https://github.com/prachaya971-jpg/Spare-parts-management-back-when-I-wasn-t-yet-proficient-in-SQL-)
+
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prachaya971-jpg&show_icons=true&theme=tokyonight" alt="Prachaya's GitHub Stats" />
@@ -69,8 +79,8 @@ A highly motivated Information Technology student from Prince of Songkla Univers
 
 ---
 
-### 📫 Connect with Me
-- 📧 **Email:** [prachaya971@gmail.com](mailto:prachaya971@gmail.com)[cite: 1]
-- 📞 **Phone:** 080-518-4971[cite: 1]
-- 🌐 **GitHub:** [prachaya971-jpg](https://github.com/prachaya971-jpg)[cite: 1]
-- 📄 **Resume File:** [Download Resume PDF](./Resume.pdf) *(วางไฟล์ PDF ไว้ใน Repo เดียวกัน)*[cite: 1]
+###  Connect with Me
+-  **Email:** [prachaya971@gmail.com](mailto:prachaya971@gmail.com)[cite: 1]
+-  **Phone:** 080-518-4971[cite: 1]
+-  **GitHub:** [prachaya971-jpg](https://github.com/prachaya971-jpg)[cite: 1]
+-  **Resume File:** [Download Resume PDF](./Resume.pdf)
