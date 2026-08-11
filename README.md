@@ -52,8 +52,8 @@ A highly motivated Information Technology student from Prince of Songkla Univers
 
 *  **search-barbershop**
   -This is a project created for learning and studying the Drat language.
-   **Tech Stack:** Flutter, Dart, friebase
-    [Repo](https://github.com/prachaya971-jpg/search-barbershop)
+  - **Tech Stack:** Flutter, Dart, friebase.
+   - [Repo](https://github.com/prachaya971-jpg/search-barbershop)
 
 *  **Dormitory Billing & Invoicing Web Application**
   - Web-based invoicing application to automate monthly rent and utility billing.
